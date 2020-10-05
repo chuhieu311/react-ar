@@ -3,11 +3,7 @@ import "./App.css";
 import ImageAR from "./AR/ImageAR";
 
 function App() {
-  return (
-    <>
-      <ImageAR />
-    </>
-  );
+  return <>{/* <ImageAR /> */}</>;
 }
 
 export default App;
